@@ -1,0 +1,11 @@
+{
+    "env":{
+        "baseURL":"https://app-traxidy.thedemo.co/auth/signup",
+        "fixtureFile": "data",
+        "email":"test@gmail.com",
+        "password":"Test@12345",
+        "domain": "@l2vqc62c.mailosaur.net",
+        "MAILOSAUR_API_KEY":"gd2ytCN0mh1fL19D",
+        "serverId":"l2vqc62c"
+    }
+}
